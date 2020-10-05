@@ -1,0 +1,29 @@
+<map id="nnp::split" name="nnp::split">
+<area shape="rect" id="node2" href="$a00943.html#adc061299e1561e6f5613880344d57839" title="Add one symmetry function. " alt="" coords="179,5,355,47"/>
+<area shape="rect" id="node3" href="$a00835.html#a5ac5a68040c23e4548f5819e8466cfa9" title="Add one symmetry function. " alt="" coords="163,71,371,112"/>
+<area shape="rect" id="node4" href="$a00955.html#aed1852f4390b8b97e62f697ee4b16676" title="Get number of structures in data file. " alt="" coords="152,137,383,163"/>
+<area shape="rect" id="node5" href="$a00951.html#a321c263a6b62533fb3ec85d3c6af80ec" title="Initialize the LAMMPS interface. " alt="" coords="465,335,633,376"/>
+<area shape="rect" id="node6" href="$a00011.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="521,254,576,281"/>
+<area shape="rect" id="node7" href="$a00879.html#a9d8474b4633b73815022742af96b0a77" title="Read configuration from file. " alt="" coords="447,847,651,874"/>
+<area shape="rect" id="node8" href="$a00879.html#ae3f4816f60d52e90cf213479ef443b32" title="Read configuration from lines. " alt="" coords="176,1317,359,1359"/>
+<area shape="rect" id="node9" href="$a00839.html#a17d6d160054a064199a8757eb62b3350" title="Extract all elements and store in element map. " alt="" coords="171,188,364,229"/>
+<area shape="rect" id="node10" href="$a00935.html#a3214a430f41f2bddd9f554652f0e59e3" title="Set symmetry function parameters. " alt="" coords="149,473,386,515"/>
+<area shape="rect" id="node11" href="$a00919.html#abb23fef9bf357d74c3c1543f3398eff4" title="Set symmetry function parameters. " alt="" coords="159,539,376,580"/>
+<area shape="rect" id="node12" href="$a00931.html#a8f52a626e02b8e3be863bebf7e4b7d28" title="Set symmetry function parameters. " alt="" coords="149,604,386,645"/>
+<area shape="rect" id="node13" href="$a00891.html#aee48813a5a4b9551ba7f4c5eed2ba434" title="Set symmetry function parameters. " alt="" coords="154,669,381,711"/>
+<area shape="rect" id="node14" href="$a00887.html#aa94bce88e4c482f2e4ed8460b474e535" title="Set symmetry function parameters. " alt="" coords="154,735,381,776"/>
+<area shape="rect" id="node15" href="$a00883.html#a250e6ab7eb1e43c079946baac1ce503d" title="Set symmetry function scaling type. " alt="" coords="179,800,355,841"/>
+<area shape="rect" id="node16" href="$a00943.html#a1ceeea1f71b868074da1f6ce5af5169e" title="Symmetry function statistics. " alt="" coords="189,865,346,907"/>
+<area shape="rect" id="node17" href="$a00847.html#ae72c03926dc7ea9b8f43770fb5861ccf" title="Set up cutoff function for all symmetry functions. " alt="" coords="181,931,353,958"/>
+<area shape="rect" id="node18" href="$a00947.html#a32f9febc2b2f06a2cb46c18ed3c7fcc2" title="Set up the element map. " alt="" coords="136,982,399,1009"/>
+<area shape="rect" id="node19" href="$a00947.html#af23c650356733cd048ed8be06150d185" title="Set up all Element instances. " alt="" coords="146,1033,389,1059"/>
+<area shape="rect" id="node20" href="$a00847.html#afc4e43a8f905900eb4ea153d529053ec" title="Set up all Element instances. " alt="" coords="170,1083,365,1110"/>
+<area shape="rect" id="node21" href="$a00947.html#afb5802f2d4bc6f955b91eb76cec9eef6" title="Set up neural networks for all elements. " alt="" coords="155,1135,380,1176"/>
+<area shape="rect" id="node22" href="$a00847.html#a3488a7fb2b0ccf17a9b2af514590f57c" title="Set up neural networks for all elements. " alt="" coords="152,1201,383,1227"/>
+<area shape="rect" id="node23" href="$a00947.html#a2bf84c32b1bdf36846213291ff6a31b8" title="Set up neural network weights from files. " alt="" coords="155,1252,380,1293"/>
+<area shape="rect" id="node24" href="$a00847.html#a091fea0011ed8260c93db7c38c3d1e82" title="Set up neural network weights from files. " alt="" coords="152,305,383,347"/>
+<area shape="rect" id="node25" href="$a00947.html#a1467b3106ede7e57f57cda2fd56961f3" title="Set up all symmetry functions. " alt="" coords="142,1383,393,1424"/>
+<area shape="rect" id="node26" href="$a00847.html#ad0080b25ea49cdd6ce085162751a379b" title="Set up all symmetry functions. " alt="" coords="167,1448,368,1489"/>
+<area shape="rect" id="node27" href="$a00967.html#a2b2b016d87bcea95f460b8a2ae93b451" title="General training settings and setup of weight update routine. " alt="" coords="167,1514,367,1541"/>
+<area shape="rect" id="node28" href="$a00879.html#a5e1f59c24c85703e6e78c7f85d47a2d8" title="Write configuration to POSCAR file. " alt="" coords="172,1565,363,1607"/>
+</map>
